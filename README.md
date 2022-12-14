@@ -19,7 +19,7 @@ Results:
 
 > EstimatedAnnotatorsResponse:
 
-![EstimatedAnnotatorsResponse](https://user-images.githubusercontent.com/17112412/207594611-a5a9d95b-1a1f-409c-9580-74fbf71030d0.jpg {width=100px height=100px})
+<img src="https://user-images.githubusercontent.com/17112412/207594611-a5a9d95b-1a1f-409c-9580-74fbf71030d0.jpg" height="24" width="48">
 
 > EstimatedReliabilities:
 
