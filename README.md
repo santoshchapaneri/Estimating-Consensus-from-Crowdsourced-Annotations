@@ -1,7 +1,8 @@
 # EstimatingConsensus
 
--- Regression task
+Outcome: Paper published at IEEE Intl. Conference, Received the Best Paper Award
 
+-- Regression task
 
 -- AMG and DEAM music emotion dataset
 
