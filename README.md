@@ -1,6 +1,7 @@
 # EstimatingConsensus
 
-Outcome: Paper published at IEEE Intl. Conference, Received the Best Paper Award
+Outcome: Paper published at IEEE Intl. Conference, 
+Received the Best Paper Award
 
 -- Regression task
 
