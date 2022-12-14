@@ -15,16 +15,23 @@ Received the Best Paper Award
 
 -- Solution is obtained via an Expectation-Maximization (EM) iterative algorithm
 
-Results:
 
-> EstimatedAnnotatorsResponse:
+![image](https://user-images.githubusercontent.com/17112412/207673736-fbd87db6-7065-4ae0-8088-9f204e78505b.png)
 
-<img src="https://user-images.githubusercontent.com/17112412/207594611-a5a9d95b-1a1f-409c-9580-74fbf71030d0.jpg" width=35% height=35%>
 
-> EstimatedReliabilities:
+![image](https://user-images.githubusercontent.com/17112412/207673829-d5a8ba12-f88e-4c89-9219-b9efcece2289.png)
 
-<img src="https://user-images.githubusercontent.com/17112412/207594617-cc57d405-dac5-4c79-85a8-f126eda3c578.jpg" width=35% height=35%>
 
-> Final Result:
+![image](https://user-images.githubusercontent.com/17112412/207673915-773205b6-39c8-4cca-8623-6d4d84652321.png)
 
-![MainResult](https://user-images.githubusercontent.com/17112412/207626229-683d032b-9d1d-4723-9afc-fc938d144623.png)
+
+![image](https://user-images.githubusercontent.com/17112412/207673995-41560ec8-7557-4964-aee5-381ab4c4891f.png)
+
+
+![image](https://user-images.githubusercontent.com/17112412/207674079-ebd6a772-f3fe-4767-9301-362734ddcb70.png)
+
+
+![image](https://user-images.githubusercontent.com/17112412/207674134-a4bd245e-911c-418a-b7c8-3552c8e3990f.png)
+
+
+![image](https://user-images.githubusercontent.com/17112412/207674207-16dd5128-a348-4787-8769-1e99fae49d6b.png)
