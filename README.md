@@ -19,11 +19,11 @@ Results:
 
 > EstimatedAnnotatorsResponse:
 
-![EstimatedAnnotatorsResponse](https://user-images.githubusercontent.com/17112412/207594611-a5a9d95b-1a1f-409c-9580-74fbf71030d0.jpg)
+![EstimatedAnnotatorsResponse](https://user-images.githubusercontent.com/17112412/207594611-a5a9d95b-1a1f-409c-9580-74fbf71030d0.jpg {width=100px height=100px})
 
 > EstimatedReliabilities:
 
-![EstimatedReliabilities](https://user-images.githubusercontent.com/17112412/207594617-cc57d405-dac5-4c79-85a8-f126eda3c578.jpg)
+![EstimatedReliabilities](https://user-images.githubusercontent.com/17112412/207594617-cc57d405-dac5-4c79-85a8-f126eda3c578.jpg {width=100px height=100px})
 
 > Final Result:
 
