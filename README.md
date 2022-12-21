@@ -1,7 +1,12 @@
 # EstimatingConsensus
 
-Outcome: Paper published at IEEE Intl. Conference, 
-Received the Best Paper Award
+Paper published at IEEE Intl. Conference
+
+Received the **Best Paper Award**
+
+Chapaneri, Santosh, and Deepak Jayaswal. "Estimating Consensus from Crowdsourced Continuous Annotations." 2020 3rd International Conference on Communication System, Computing and IT Applications (CSCITA). IEEE, 2020.
+
+https://ieeexplore.ieee.org/abstract/document/9137784/
 
 -- Regression task
 
