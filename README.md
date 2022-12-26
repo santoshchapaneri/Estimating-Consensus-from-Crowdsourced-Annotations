@@ -1,4 +1,4 @@
-# EstimatingConsensus
+# Estimating-Consensus-from-Crowdsourced-Annotations
 
 Paper published at IEEE Intl. Conference
 
